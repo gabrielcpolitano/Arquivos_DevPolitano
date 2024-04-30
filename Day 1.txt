@@ -1,0 +1,13 @@
+Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a soma entre A e B é mostre se a soma é menor que C.
+
+1. Crie uma função, que com parametros para 3 valores
+
+2. Dentro da função cria uma variavel que soma dois valores
+
+3. Cria uma se para ver se a variavel que crio é menor que o derceiro valor da função
+
+4. Cria uma mensagem para ser mostrado na tela do usuario caso variavel for menor que o terceiro valor da função
+
+5. Cria uma uma contição contraria para caso o valor da variavel for maior, criando também uma mensagem
+
+6. Fora da função define os valores, e mostre o resultado no console
