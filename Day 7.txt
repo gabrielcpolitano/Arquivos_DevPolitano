@@ -1,0 +1,4 @@
+Crie um código para conversão de temperaturas, Celsius para Fahrenheit e vice-ver
+-- Utilizar variáveis e outros recursos de forma apropriadas
+-- (temperaturaCelsius * 9/5) + 32
+-- (temperaturaFahrenheit - 32) * 5/9
