@@ -1,0 +1,2 @@
+Cria um programa que verifica se um número é divisível por outro;
+Exemplo: 10 e 2 deve retornar verdadeiro, pois não tem resto. caso 10 e 3 retornar falso pois nessa divisão tem resto
