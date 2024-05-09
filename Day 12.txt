@@ -4,4 +4,4 @@ Faixas:
 -- Crianças: 0-12
 -- Adolescente: 13-17
 -- Adulto: 18-59
--- Idoso: 60 ou mais
+-- Idoso: 60 ou mais .
