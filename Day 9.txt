@@ -1,2 +1,0 @@
-Crie um programa que armazena trÊs dados: nome idade e cidade;
-E mostre no console, os 3 juntos;

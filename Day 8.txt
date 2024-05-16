@@ -1,2 +1,0 @@
-Cria um progrma que calcula o IMC;
-Fórmula: IMC = peso / (altura * altura)

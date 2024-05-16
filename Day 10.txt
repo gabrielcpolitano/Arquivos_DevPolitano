@@ -1,5 +1,0 @@
--- Crie um programa que calcula a área e o perímetro de um retângulo;
--- Armazene os valores e realize os cálculos necessários;
--- Fórmula:
--- Área = comprimento * largura
--- Perímetro = 2 * (comprimenro + largura)

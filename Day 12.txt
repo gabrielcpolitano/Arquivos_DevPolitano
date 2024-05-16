@@ -1,7 +1,0 @@
-Cria um programa que classifica o usuário baseado na idade depositada;
-
-Faixas:
--- Crianças: 0-12
--- Adolescente: 13-17
--- Adulto: 18-59
--- Idoso: 60 ou mais .
