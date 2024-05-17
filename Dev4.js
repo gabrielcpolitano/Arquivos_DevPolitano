@@ -1,7 +1,6 @@
 // Declare duas variáveis chamadas "nome" e "sobrenome", atribua o seu nome e sobrenome a elas. Concatene-as em uma terceira variável chamada "nomeCompleto" e imprima.
 
-var nome = "Gabriel"
-var sobrenome = "Politano"
-var nomeCompleto = nome + " " + sobrenome
+let nome = 'Gabriel';
+let sobrenome = 'Politano'
 
-console.log(nomeCompleto)
+console.log(nome + " " + sobrenome);
