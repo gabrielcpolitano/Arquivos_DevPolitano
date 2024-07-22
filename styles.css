@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
@@ -18,6 +19,7 @@ body {
 
 h1 {
   margin-bottom: 20px;
+  font-family: "Bungee Spice", sans-serif;
 }
 
 .goal {
