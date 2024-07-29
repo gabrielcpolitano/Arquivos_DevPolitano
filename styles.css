@@ -55,3 +55,9 @@ button {
 button:hover {
   background: #0056b3;
 }
+
+img{
+  border-radius: 25px;
+  margin: 50px;
+  width: 800px;
+}
